@@ -1,5 +1,3 @@
-import React from "react";
-
 type ChipProps = {
   text: string;
   className?: string;

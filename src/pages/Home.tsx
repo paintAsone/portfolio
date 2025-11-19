@@ -1,4 +1,3 @@
-import React from "react";
 import NavigateButton from "../components/buttons/NavigateButton";
 import RevealOnScroll from "../components/RevealOnScroll";
 

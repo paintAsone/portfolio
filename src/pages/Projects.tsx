@@ -1,4 +1,3 @@
-import React from "react";
 import Chip from "../components/Chip";
 import type { ProjectDetail } from "../types/projects.type";
 import RevealOnScroll from "../components/RevealOnScroll";
