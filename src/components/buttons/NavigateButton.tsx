@@ -1,5 +1,3 @@
-import React from "react";
-
 type NavigateButtonProps = {
   href: string;
   text: string;
